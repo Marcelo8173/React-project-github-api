@@ -82,7 +82,7 @@ export const IssuesList = styled.ul`
                 &:hover{
                     color: #7159c1;
                 }
-            }
+            } 
             span{
                 background: #eee;
                 color: #333;
